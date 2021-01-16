@@ -28,8 +28,6 @@ print ("Printing message in alert3: ", alert3.text)
 alert3.dismiss()
 driver.close()
 
-
-
 """
 Assignment1
 1. Alerts - Goto http://selenium-examples.nichethyself.com/
